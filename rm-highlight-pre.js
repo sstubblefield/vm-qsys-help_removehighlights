@@ -4,6 +4,7 @@
 // @match       https://help.qsys.com/*
 // @grant       none
 // @version     1.0
+// @license     MIT
 // @author      Scott Stubblefield | https://github.com/sstubblefield/vm-qsys-help_removehighlights
 // @description 5/23/2024, 1:55:17 PM
 // ==/UserScript==
